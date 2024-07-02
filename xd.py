@@ -1,3 +1,2 @@
-def saludar():
-    print("HOLA perras")
+from funciones import*
 saludar()
